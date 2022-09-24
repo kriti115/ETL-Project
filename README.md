@@ -32,4 +32,5 @@ The results extracted on Tableau dashboard can be described as below:
 
 
 A screenshot of the dashboard is presented below:
-![image](/Business Analyst data tableau.PNG)
+
+![image](/Business_Analyst_data_tableau.png)
