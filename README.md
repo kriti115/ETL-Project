@@ -27,3 +27,6 @@ The results extracted on Tableau dashboard can be described as below:
 6. Evaluation of compnies based on Revenue (in US Dollars)
 - The companies with highest revenue of more than 10+ billions are looking more for Business Anlaysts followed by medium companies with revenue between 50 to 500 million.
 
+7. Evaluation of companies based on Industry
+- IT and Business are the leading sectors that are looking for Business Analysts.
+
