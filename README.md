@@ -36,7 +36,8 @@ The results extracted on Tableau dashboard can be described as below:
     - IT and Business are the leading sectors that are looking for Business Analysts.
     
     8. Evaluation of Office Location
-    - There are 2557 companies that have their headquaters and the office that posted the Business Analyst vacancy in the same state while 1535 companies have it in        the same state. 
+    - There are 2557 companies that have their headquaters and the office that posted the Business 
+    Analyst vacancy in the same state while 1535 companies have it in the same state. 
 
 
 A screenshot of the dashboard is presented below:
