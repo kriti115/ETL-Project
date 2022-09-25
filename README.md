@@ -3,7 +3,7 @@ In this project, data about US-based companies with vacancies for Business Analy
 
 The data was downloaded from Kaggle website: https://www.kaggle.com/datasets/andrewmvd/business-analyst-jobs
 
-The data was Exported as csv, Transformed using pandas library in Python and Loaded as xlxs file into Tableau for visualization. 
+The data was Exported as csv, Transformed using pandas library in Python and Loaded as xlsx file into Tableau for visualization. 
 
 I have provided the source to origial data, the clean data set as an Excel file, the jupyter notebook where transformations were made, a link to the Tableau dashboard and a screenshot of the dashboard.
 
