@@ -3,7 +3,9 @@ In this project, data about US-based companies with vacancies for Business Analy
 
 The data was downloaded from Kaggle website: https://www.kaggle.com/datasets/andrewmvd/business-analyst-jobs
 
-The data was Exported as csv, Transformed using pandas library in Python and Loaded into Tableau for visualization. 
+The data was Exported as csv, Transformed using pandas library in Python and Loaded as xlxs file into Tableau for visualization. 
+
+I have provided the source to origial data, the clean data set as an Excel file, the jupyter notebook where transformations were made, a link to the Tableau dashboard and a screenshot of the dashboard.
 
 The Tableau Visualization can be found in the link below:
 https://public.tableau.com/app/profile/kriti.shrestha6381/viz/CompanyEvaluationwithBusinessAnalystPositions/Dashboard2?publish=yes
@@ -32,6 +34,9 @@ The results extracted on Tableau dashboard can be described as below:
 
     7. Evaluation of companies based on Industry
     - IT and Business are the leading sectors that are looking for Business Analysts.
+    
+    8. Evaluation of Office Location
+    - There are 2557 companies that have their headquaters and the office that posted the Business Analyst vacancy in the same state while 1535 companies have it in        the same state. 
 
 
 A screenshot of the dashboard is presented below:
