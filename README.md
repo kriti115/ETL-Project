@@ -13,16 +13,16 @@ https://public.tableau.com/app/profile/kriti.shrestha6381/viz/CompanyEvaluationw
 The results extracted on Tableau dashboard can be described as below:
 
     1. Average maximum salary based on state: 
-    - The maximum salaries for Business Analyst positions can be earned in California, followed by New york, New Jersey 
-    and Pennslyvania.
+    - The maximum salaries for Business Analyst positions can be earned in California, followed by New york, 
+    New Jersey and Pennslyvania.
 
     2. Average minimum salary based on state:
     - The minimum salaries for Business Analyst positions can be seen in Arizona and Florida.
 
     3. Map showing the states that the main offices of the companies are located which are mostly coastal states.
 
-    4. The size of the company based on the number of employees where mostly big companies with more than 10000 employees 
-    are looking for Business Analyst followed y medium sized companies.
+    4. The size of the company based on the number of employees where mostly big companies with more than 10000 
+    employees are looking for Business Analyst followed y medium sized companies.
 
     5. Evaluation of Ratings based on the ratings and the year the company was founded on.
     - There are 2250 medium rated (3 to 4) companies followed by 1067 highly rated companies.
@@ -36,8 +36,8 @@ The results extracted on Tableau dashboard can be described as below:
     - IT and Business are the leading sectors that are looking for Business Analysts.
     
     8. Evaluation of Office Location
-    - There are 2557 companies that have their headquaters and the office that posted the Business Analyst vacancy in the 
-    same state while 1535 companies have it in the same state. 
+    - There are 2557 companies that have their headquaters and the office that posted the Business Analyst vacancy 
+    in the same state while 1535 companies have it in the same state. 
 
 
 A screenshot of the dashboard is presented below:
