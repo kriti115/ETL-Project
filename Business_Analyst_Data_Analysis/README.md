@@ -1,4 +1,4 @@
-# ETL-Project
+# Analysis of companies in the US with vacancy for the position of Business Analyst 
 In this project, data about US-based companies with vacancies for Business Analyst positions have been evaluated. The data has been extracted from Kaggle website, transformed as necessary and loaded into a csv file. The visualization of the result has been made in Tableau.
 
 The data was downloaded from Kaggle website: https://www.kaggle.com/datasets/andrewmvd/business-analyst-jobs
